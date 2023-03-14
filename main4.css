@@ -37,8 +37,8 @@ body{
     color: #FFFFFF;
 }
 .header-subtitle{
-    background: green; 
-    padding: 10px 10px 10px 15px;
+    background: cyan; 
+    padding: 0px 10px 0px 10px;
     margin: 50px;
     font-weight: bold;
     font: size 48px;
