@@ -37,6 +37,7 @@ body{
     color: #FFFFFF;
 }
 .header-subtitle{
+    background: blue;
     margin: 50px;
     font-weight: bold;
     font: size 48px;
